@@ -1,0 +1,3 @@
+Your download is starting...
+
+You are downloading the latest (Git-2.17.0-64-bit.exe) 64-bit version of Git for Windows. This is the most recent maintained build. It was released about 1 month ago, on 2018-04-03. 
